@@ -1,0 +1,11 @@
+Variables:
+
+Name of variable must start with a letter or _underscore
+
+are made up of letters underscores and numbers
+
+they are case sensitive
+
+assign variable names using =
+
+remember the " += " expression
