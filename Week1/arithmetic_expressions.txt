@@ -1,2 +1,0 @@
-integer: is a whole number (3, 1, 2, etc.)
-float: is a decimal number, including 3.0
