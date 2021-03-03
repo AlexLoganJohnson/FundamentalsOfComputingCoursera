@@ -1,0 +1,20 @@
+def name_of_function(parameter0, parameter1):
+	body of function
+	return
+
+Calling the function: name_of_function()
+
+Decide useful name for functions.
+
+Functions can take 0 or more parameters.
+
+Also name parameters useful names.
+
+First line of function is called the "header".
+
+You can and should call a function within a function.
+
+Don't repeat code, use functions.
+
+If no "return" statement is used at end of function. Then, Python returns the "None" value.
+
