@@ -1,0 +1,11 @@
+% returns remainder from division
+
+e.g. 49 % 10 = 9
+
+// returns integer (whole number) 
+
+e.g. 49 // 10 = 4
+
+Convert number into string using string function
+str( )
+
