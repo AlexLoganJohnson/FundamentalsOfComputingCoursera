@@ -1,0 +1,26 @@
+Boolean Logic.
+
+True or False values.
+
+Operators: NOT, AND, OR.
+
+comparison operators
+>
+<
+>=
+<=
+== equal to
+!= not equal to
+
+Conditionals.
+
+def function(parameters):
+	if (predicate):
+		execute code
+	elif:
+		execute this code.
+	else:
+		execute this code
+	return
+
+if testing a predicate the convention is to start the function with the word "is".
